@@ -7,7 +7,7 @@
 
 
 # minasender
-an easy bash script to send  MINA PROTOCOL tokens in Bulk from a LIST of ADDRESS.
+an easy bash script to send  MINA PROTOCOL tokens ( https://github.com/MinaProtocol/mina ) in Bulk from a LIST of ADDRESS.
 the script ask for
 
 - [x] -the amount to send
