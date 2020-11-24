@@ -1,8 +1,7 @@
 #!/bin/bash
-mkdir -p minasenderlogs
 read -p "Amount you want to send: " mina_amount
 read -p "Amount of fee you want to paid: " mina_fee
-
+mkdir -p minasenderlogs
 echo lets unlock your wallet! $CODA_PUBLIC_KEY
 coda account unlock -public-key $CODA_PUBLIC_KEY
 
