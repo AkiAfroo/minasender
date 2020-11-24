@@ -1,0 +1,14 @@
+#!/bin/bash
+mkdir -p minasenderlogs
+read -p "Amount you want to send: " mina_amount
+read -p "Amount of fee you want to paid: " mina_fee
+
+echo lets unlock your wallet! $CODA_PUBLIC_KEY
+coda account unlock -public-key $CODA_PUBLIC_KEY
+
+IFS=$'\n';for MINA_ADDRESS in `cat mina_Users_address.txt`; do
+coda client send-payment \
+-amount $mina_amount \
+-receiver ${MINA_ADDRESS} \
+-fee $mina_fee \
+-sender ${CODA_PUBLIC_KEY} | tee ./minasenderlogs/${MINA_ADDRESS}.log && sleep 5; done
