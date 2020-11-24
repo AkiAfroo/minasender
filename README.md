@@ -14,7 +14,7 @@ The script save the Dispatched payment with ID inside every address.log files in
 
 
 # minasender
-an easy bash script to send  MINA PROTOCOL tokens  [Team Members](#team-members) ( https://github.com/MinaProtocol/mina ) in Bulk from a LIST of ADDRESS.
+an easy bash script to send  MINA PROTOCOL tokens ( https://github.com/MinaProtocol/mina ) in Bulk from a LIST of ADDRESS.
 the script ask for
 
 - [x] -the amount to send
