@@ -3,7 +3,7 @@
 ![logo](https://i.postimg.cc/26qDJK34/Mina-Protocol-Sender.png)
 ![logo](https://i.postimg.cc/MKHyL0Yz/Mina-Protocol-Sender2.png)
 
---the script save the Dispatched payment with ID inside every address.log files inside minasenderlogs folder
+## --the script save the Dispatched payment with ID inside every address.log files inside minasenderlogs folder
 ![logo](https://i.postimg.cc/TPfJYKbw/Mina-Protocol-Sender-Logs.png)
 
 
@@ -11,7 +11,7 @@
 
 
 # minasender
-an easy bash script to send  MINA PROTOCOL tokens ( https://github.com/MinaProtocol/mina ) in Bulk from a LIST of ADDRESS.
+an easy bash script to send  MINA PROTOCOL tokens  [Team Members](#team-members) ( https://github.com/MinaProtocol/mina ) in Bulk from a LIST of ADDRESS.
 the script ask for
 
 - [x] -the amount to send
