@@ -1,9 +1,12 @@
 # minasender
-
+## the script
 ![logo](https://i.postimg.cc/26qDJK34/Mina-Protocol-Sender.png)
+
+## minaexplorer
 ![logo](https://i.postimg.cc/MKHyL0Yz/Mina-Protocol-Sender2.png)
 
-## --the script save the Dispatched payment with ID inside every address.log files inside minasenderlogs folder
+## Logs
+The script save the Dispatched payment with ID inside every address.log files inside minasenderlogs folder
 ![logo](https://i.postimg.cc/TPfJYKbw/Mina-Protocol-Sender-Logs.png)
 
 
