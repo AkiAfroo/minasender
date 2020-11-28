@@ -28,6 +28,7 @@ the script ask for
 dont forget: you must have a full node synced with all the environment variable ready and setting up in .bashrc or .profile
 
 export CODA_PUBLIC_KEY=your-Mina-Address
+
 export MINA_PUBLIC_KEY=your-Mina-Address-same-as-above
 
 ## usage:
