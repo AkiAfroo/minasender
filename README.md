@@ -32,7 +32,7 @@ export CODA_PUBLIC_KEY=your-Mina-Address
 export MINA_PUBLIC_KEY=your-Mina-Address-same-as-above
 
 ## usage:
-* chmod +x minasender
-* bash minasender
+* `chmod +x minasender`
+* `bash minasender`
 
 # minasender and mina_Users_address.txt must be in the same directory
