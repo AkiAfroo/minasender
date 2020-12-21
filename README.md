@@ -23,7 +23,7 @@ the script ask for
 
 - [x] -password for unlock your wallet to send those transactions.
 
-- [x] -added 56 testnet addresses
+- [x] -added 61 testnet addresses
 
 dont forget: you must have a full node synced with all the environment variable ready and setting up in .bashrc or .profile
 
