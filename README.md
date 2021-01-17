@@ -23,7 +23,9 @@ the script ask for
 
 - [x] -password for unlock your wallet to send those transactions.
 
-- [x] -added 61 testnet addresses
+- [x] -added 20 testnet addresses
+
+- [x] -added extra .txt with 1544 testworld address, (carefull you can drain your balance if you set high fees.)
 
 dont forget: you must have a full node synced with all the environment variable ready and setting up in ~/.bashrc or ~/.profile
 
