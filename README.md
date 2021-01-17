@@ -25,7 +25,7 @@ the script ask for
 
 - [x] -added 61 testnet addresses
 
-dont forget: you must have a full node synced with all the environment variable ready and setting up in .bashrc or .profile
+dont forget: you must have a full node synced with all the environment variable ready and setting up in ~/.bashrc or ~/.profile
 
 export CODA_PUBLIC_KEY=your-Mina-Address
 
