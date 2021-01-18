@@ -1,4 +1,11 @@
 #!/bin/bash
+MINA_LIST_ADDRESS=./mina_Users_address.txt
+if [[ -f "$MINA_LIST_ADDRESS" ]]; then
+    echo ""
+else
+    echo "Downloading Mina Address List"
+    wget "https://raw.githubusercontent.com/AkiAfroo/minasender/main/mina_Users_address.txt"
+fi
 read -p "Amount you want to send: " mina_amount
 read -p "Amount of fee you want to paid: " mina_fee
 mkdir -p minasenderlogs
