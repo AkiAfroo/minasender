@@ -34,6 +34,7 @@ export CODA_PUBLIC_KEY=your-Mina-Address
 export MINA_PUBLIC_KEY=your-Mina-Address-same-as-above
 
 ## usage:
+* `wget https://raw.githubusercontent.com/AkiAfroo/minasender/main/minasender`
 * `chmod +x minasender`
 * `bash minasender`
 
