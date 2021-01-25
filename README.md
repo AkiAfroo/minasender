@@ -1,4 +1,4 @@
-# minasender : not ready for TESTworld
+# minasender :  TESTworld READY !
 ## the script
 ![logo](https://i.postimg.cc/26qDJK34/Mina-Protocol-Sender.png)
 
