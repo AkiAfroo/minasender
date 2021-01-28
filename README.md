@@ -30,6 +30,7 @@ the script ask for
 dont forget: you must have a full node synced with all the environment variable ready and setting up in ~/.bashrc or ~/.profile
 
 like this in your linux terminal:
+
 `cd`
 
 `nano .bashrc`
