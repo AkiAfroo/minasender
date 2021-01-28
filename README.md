@@ -27,9 +27,12 @@ the script ask for
 
 - [x] -added extra .txt with 1544 testworld address, (carefull you can drain your balance if you set high fees.)
 
-dont forget: you must have a full node synced with all the environment variable ready and setting up in ~/.bashrc or ~/.profile
+- [x] - auto download the address list ( mina_Users_address.txt )
 
-like this in your linux terminal:
+
+first lets add your account to .bashrc do the following steps.
+
+in your linux terminal:
 
 `cd`
 
@@ -52,9 +55,9 @@ now update it with
 
 or close this terminal to changes take effects.
 
+now, download the minasender 
+
 ## usage:
 * `wget https://raw.githubusercontent.com/AkiAfroo/minasender/main/minasender`
 * `chmod +x minasender`
 * `bash minasender`
-
-# minasender and mina_Users_address.txt must be in the same directory
