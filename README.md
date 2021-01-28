@@ -48,7 +48,9 @@ change , "here-your-wallet" with your public wallet.
 
 now update it with
 
-`source .bashrc` or close this terminal to changes take effects.
+`source .bashrc`
+
+or close this terminal to changes take effects.
 
 ## usage:
 * `wget https://raw.githubusercontent.com/AkiAfroo/minasender/main/minasender`
