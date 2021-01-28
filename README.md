@@ -42,8 +42,13 @@ export CODA_PUBLIC_KEY=here-your-wallet
 export MINA_PUBLIC_KEY=here-your-wallet
 ```
 
+change , "here-your-wallet" with your public wallet.
+
 `control` + `o` and hit `ENTER` and `Control` + `x` to exit
-change , here-your-wallet with your public wallet.
+
+now update it with
+
+`source .bashrc` or close this terminal to changes take effects.
 
 ## usage:
 * `wget https://raw.githubusercontent.com/AkiAfroo/minasender/main/minasender`
