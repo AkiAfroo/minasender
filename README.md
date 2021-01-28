@@ -23,6 +23,10 @@ the script ask for
 
 - [x] -password for unlock your wallet to send those transactions.
 
+
+Changelog:
+
+
 - [x] -added 20 testnet addresses
 
 - [x] -added extra .txt with 1544 testworld address, (carefull you can drain your balance if you set high fees.)
