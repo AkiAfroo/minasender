@@ -34,7 +34,9 @@ the script ask for
 - [x] - auto download the address list ( mina_Users_address.txt )
 
 
-first lets add your account to .bashrc do the following steps.
+# HOWTO
+
+first lets add your Public account to .bashrc do the following steps.
 
 in your linux terminal:
 
