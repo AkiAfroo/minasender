@@ -19,4 +19,4 @@ coda client send-payment \
 -amount $mina_amount \
 -receiver ${MINA_ADDRESS} \
 -fee $mina_fee \
--sender ${CODA_PUBLIC_KEY} | tee ./minasenderlogs/${MINA_ADDRESS}.log && sleep 10; done
+-sender ${CODA_PUBLIC_KEY} | tee ./minasenderlogs/${MINA_ADDRESS}.log && sleep 20; done
