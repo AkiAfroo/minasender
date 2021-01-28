@@ -31,12 +31,16 @@ dont forget: you must have a full node synced with all the environment variable 
 
 like this in your linux terminal:
 `cd`
+
 `nano .bashrc`
+
 at the end of this files.. at this
+
 ```
 export CODA_PUBLIC_KEY=here-your-wallet
 export MINA_PUBLIC_KEY=here-your-wallet
 ```
+
 `control` + `o` and hit `ENTER` and `Control` + `x` to exit
 change , here-your-wallet with your public wallet.
 
