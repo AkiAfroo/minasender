@@ -29,9 +29,16 @@ the script ask for
 
 dont forget: you must have a full node synced with all the environment variable ready and setting up in ~/.bashrc or ~/.profile
 
-export CODA_PUBLIC_KEY=your-Mina-Address
-
-export MINA_PUBLIC_KEY=your-Mina-Address-same-as-above
+like this in your linux terminal:
+`cd`
+`nano .bashrc`
+at the end of this files.. at this
+```
+export CODA_PUBLIC_KEY=here-your-wallet
+export MINA_PUBLIC_KEY=here-your-wallet
+```
+`control` + `o` and hit `ENTER` and `Control` + `x` to exit
+change , here-your-wallet with your public wallet.
 
 ## usage:
 * `wget https://raw.githubusercontent.com/AkiAfroo/minasender/main/minasender`
